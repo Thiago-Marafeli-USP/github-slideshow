@@ -2,6 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
 Mudei dnv
+Use the left arrow to go back!
